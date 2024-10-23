@@ -1,15 +1,5 @@
-/**
-    * @name Square Corners
-    * @author NuffleFluffle
-    * @version 1.0.1
-    * @description Square > Round
-**/
-foreignObject[mask*="url(#"] {
-    mask: none;
-}
-.avatar-2e8lTP{
-    border-radius: 0.1;
-}
-.avatar_f9f2ca{
-    border-radius: 0.1;
+/* Square-ish larger profile pictures */
+.avatar__08316 {
+  border-radius: 25%;
+  transform: scale(1.25) !important;
 }
