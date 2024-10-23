@@ -1,5 +1,5 @@
 # SquareAvatars
-
+custom fork that doesnt differ much!
 
 This is some basic CSS to make avatars square without turning other elements square.
 
